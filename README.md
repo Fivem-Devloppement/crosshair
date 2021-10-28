@@ -1,0 +1,2 @@
+# crosshair
+Désactiver le crosshair
